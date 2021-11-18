@@ -1,0 +1,15 @@
+John Santore,1234,R
+Enping Li,2345,R
+Margaret Black,3456,R
+Seikyung Jung,1123,R
+Haleh Khojasteh,2231,R
+Paul Kim,3232,R
+Abdul Sattar,4321,R
+Laura Gross,3311,R
+Stu Dent,4444,R
+Dragon Industries,123,B
+Acme Inc,1095,B
+Big Social Media,1020,B
+Save the Students,1002,T
+Save the Professors,1003,T
+Help the Town,2003,T

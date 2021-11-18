@@ -1,0 +1,23 @@
+chicken,5.99,1
+mushrooms,4.23,1
+milk,4.83,1
+noodles,1.99,1
+spinach,2.99,1
+saffron,20.54,1
+vanilla extract,15.23,1
+Shirt,10,2
+jeans,30,2
+socks,15.99,2
+coat,70.99,2
+sports star endorsed shoes,200.01,2
+Suit,159.65,2
+Fancy Suit,527.43,2
+Dress,70.44,2
+Fancy Dress,749.99,2
+Computer,531.33,3
+Gaming Computer,2019.99,3
+Chair,129.00,3
+Plate Set,35.00,3
+School Book,129.32,3
+Fun Book,15.33,3
+Couch,1523.32,3

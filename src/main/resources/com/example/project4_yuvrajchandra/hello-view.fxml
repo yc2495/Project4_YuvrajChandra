@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ChoiceBox fx:id="ItemList" layoutX="225.0" layoutY="40.0" prefHeight="30.0" prefWidth="150.0" />
+      <TextField fx:id="Price" alignment="CENTER" layoutX="251.0" layoutY="114.0" prefHeight="26.0" prefWidth="98.0" />
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="279.0" layoutY="88.0" prefHeight="26.0" prefWidth="43.0" text="Price" textAlignment="CENTER" />
+      <Label alignment="CENTER" layoutX="276.0" layoutY="23.0" prefHeight="17.0" prefWidth="52.0" text="Item List" />
+      <Label alignment="CENTER" layoutX="276.0" layoutY="253.0" prefHeight="30.0" prefWidth="52.0" text="Type" />
+      <Button fx:id="NewButton" layoutX="117.0" layoutY="348.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="70.0" text="Save" />
+      <Button fx:id="SaveButton" layoutX="415.0" layoutY="348.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="70.0" text="New" />
+      <Label alignment="CENTER" layoutX="285.0" layoutY="167.0" text="Name" />
+      <ChoiceBox fx:id="Type" layoutX="225.0" layoutY="279.0" prefHeight="30.0" prefWidth="150.0" />
+      <TextField fx:id="Name" layoutX="220.0" layoutY="184.0" prefHeight="36.0" prefWidth="160.0" />
+   </children>
+</AnchorPane>
